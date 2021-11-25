@@ -7,7 +7,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='',
+    url='https://github.com/Keltings/numpy',
     author='Kelida Linda',
     author_email='lkelida@gmail.com'
 
